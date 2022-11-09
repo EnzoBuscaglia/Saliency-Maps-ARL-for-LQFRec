@@ -1,4 +1,4 @@
-Modelos located at:
+Los modelos se encuentran disponibles en:
 https://drive.google.com/drive/u/0/folders/1H-Q9F7bnR1DFJPbN4CcQkvld2bXzZbTU
 
 
