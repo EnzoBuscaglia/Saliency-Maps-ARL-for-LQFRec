@@ -1,2 +1,2 @@
 # Saliency-Maps-and-ARLs-LQFR-Arcface
-Fine-tuned models and CaTiLowQ dataset
+Fine-tuned models, codes and LQ-Faces Dataset.
