@@ -1,3 +1,6 @@
+Dataset disponible en:
+https://drive.google.com/drive/u/0/folders/1EKrtCoFGRzOiy8fkUxnN-pGNEaUXYAxB
+
 
 *QMUL-TinyFace disponible en:
 https://qmul-tinyface.github.io
