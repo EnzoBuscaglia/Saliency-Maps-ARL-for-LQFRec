@@ -1,5 +1,6 @@
-# Saliency-Maps-and-ARLs-LQFR-Arcface
-Fine-tuned models, codes and LQ-Faces Dataset.
+# Saliency Maps and ARL blocks For Low Quality Face Recognition using the MS1MV2-R100-Arcface (a.k.a. Arcface) net.
+
+This repository contains the fine-tuned models, codes and LQ-Faces Dataset of the paper currently under review by the IEEE.
 
 Some useful Issues:
 
